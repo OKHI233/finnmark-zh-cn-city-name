@@ -1,0 +1,17 @@
+[orange]----- English -----
+[orange]Finnmark Chinese (Simplified) City Name - Saltfjellet - 1.45.1
+[normal]A little add-on for Finnmark that makes Chinese (Simplified) localization works...
+[green]To make it works, you need to put it above Finnmark in the mod manager. 
+[normal]The thread link of Finnmark: [blue]https://www.promods.net/viewtopic.php?f=42&t=37501
+[normal]You can share this mod to others with the link below.
+[blue]https://truckymods.io/euro-truck-simulator-2/map-patches/finnmark-chinese-simplified-city-name
+[red]DO NOT RE-UPLOAD OR SELL THIS MOD! 
+
+[orange]----- 中文（简体） -----
+[orange]Finnmark中文（简体）城市名 - 萨尔特山脉 - 1.45.1
+[normal]一个用于Finnmark的小插件，让中文（简体）本地化起作用...
+[green]要让它工作，您需要在MOD管理器中将其放置于Finnmark上方。
+[normal]Finnmark的帖子链接：[blue]https://www.promods.net/viewtopic.php?f=42&t=37501
+[normal]您可以使用下方的链接与其他人分享此模组。
+[blue]https://truckymods.io/euro-truck-simulator-2/map-patches/finnmark-chinese-simplified-city-name
+[red]禁止重新上传或销售此模组！
