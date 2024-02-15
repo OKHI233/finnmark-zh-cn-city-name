@@ -1,0 +1,123 @@
+SiiNunit
+{
+localization_db : .localization
+{
+	#FINNMARK MOD
+	#CITIES
+	#Commented cities are provided via promods location files
+		#key[]: "alta"
+		#val[]: "阿尔塔"
+
+		key[]: "ballangen"
+		val[]: "巴郎恩"
+
+		key[]: "batsfjord"
+		val[]: "博茨菲尤尔"
+
+		key[]: "bardufoss"
+		val[]: "巴度弗斯"
+
+		key[]: "berlevag"
+		val[]: "贝勒沃格"
+
+		key[]: "bidjovagge"
+		val[]: "比约瓦格" 
+
+		#key[]: "bodo"
+		#val[]: "博多"		
+
+		key[]: "fauske"
+		val[]: "弗于斯克" 
+		
+		key[]: "finnsnes"
+		val[]: "芬斯内斯" 
+
+		#key[]: "honningsvag"
+		#val[]: "霍宁斯沃格"
+
+		#key[]: "hammerfest"
+		#val[]: "亨墨菲斯"
+
+		key[]: "karasjok"
+		val[]: "卡拉绍克"
+
+		key[]: "kautokeino"
+		val[]: "凯于图凯努"
+
+		#key[]: "kirkenes"
+		#val[]: "希尔克内斯"
+
+		key[]: "kjollefjord"
+		val[]: "克约尔峡湾"
+
+		key[]: "lakselv"
+		val[]: "拉克塞尔夫"
+
+		key[]: "lebesby"
+		val[]: "莱伯斯比"
+
+		key[]: "mehamn"
+		val[]: "梅哈恩"
+
+		#key[]: "moirana"
+		#val[]: "莫伊雷那"		
+
+		#key[]: "narvik"
+		#val[]: "纳尔维克"
+
+		key[]: "setermoen"
+		val[]: "赛特穆恩"
+
+		key[]: "storslett"
+		val[]: "斯托斯莱特"
+
+		#key[]: "tanabru"
+		#val[]: "塔纳布鲁"
+
+		#key[]: "tromso"
+		#val[]: "特罗姆瑟"
+
+		#key[]: "utsjoki"
+		#val[]: "乌茨约基"
+
+		key[]: "vadso"
+		val[]: "瓦德瑟"
+
+		key[]: "vardo"
+		val[]: "沃尔德"
+
+	#FERRIES
+		key[]: "bognes"
+		val[]: "博格内斯"
+		
+		key[]: "botnhamn"
+		val[]: "博特汉姆"
+
+		key[]: "brensholmen"
+		val[]: "布伦斯霍尔门" 
+		
+		key[]: "skarberget"
+		val[]: "斯卡贝格"
+
+	#FYLKER
+		key[]: "finnmark"
+		val[]: "芬马克郡"
+
+		key[]: "troms"
+		val[]: "特罗姆斯郡"
+
+		key[]: "nordland"
+		val[]: "诺尔兰郡"
+
+		key[]: "trondelag"
+		val[]: "特伦德拉格郡"
+		
+	#CUTSCENES/VIEWPOINTS
+		key[]: "varanger_cut_no_artic_circle_center"
+		val[]: "北极圈中心 / 萨尔特山脉"
+		
+		key[]: "varanger_cut_no_vardo"
+		val[]: "沃尔德 / 沃尔德胡斯堡垒"
+
+}
+}
